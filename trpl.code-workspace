@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "guessing_game"
+		},
+		{
+			"path": "variables"
+		},
+		{
+			"path": "functions"
 		}
 	],
 	"settings": {}
